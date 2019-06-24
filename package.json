@@ -1,0 +1,23 @@
+{
+  "name": "simple-auth",
+  "version": "1.0.0",
+  "description": "Simple Node/Express application for user management and authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonnyTee81/simple-auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonnyTee81/simple-auth/issues"
+  },
+  "homepage": "https://github.com/JonnyTee81/simple-auth#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "mongoose": "^5.6.0"
+  }
+}
